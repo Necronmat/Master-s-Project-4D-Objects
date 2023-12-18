@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Finished_Project",
+			"Path": "C:\\Users\\User\\Desktop\\Uni work\\UClan-Masters\\Project\\Finished_Project\\Source\\Finished_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Finished_ProjectEditor",
+			"Path": "C:\\Users\\User\\Desktop\\Uni work\\UClan-Masters\\Project\\Finished_Project\\Source\\Finished_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

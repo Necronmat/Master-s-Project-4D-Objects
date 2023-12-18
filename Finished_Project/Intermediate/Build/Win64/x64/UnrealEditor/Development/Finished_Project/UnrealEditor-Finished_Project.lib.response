@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Finished_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\Finished_ProjectEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.NoUndef.InclOrderUnreal5_0.h.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\DynamicActor4D.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\Finished_Project.init.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\Finished_ProjectGameModeBase.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\GameMode4D.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\Player4D.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\Trigger4D.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\DynamicActor4D.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\Finished_Project.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\Finished_ProjectGameModeBase.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\GameMode4D.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\Player4D.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\Trigger4D.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\Default.rc2.res"
+/OUT:"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Finished_Project\UnrealEditor-Finished_Project.lib"

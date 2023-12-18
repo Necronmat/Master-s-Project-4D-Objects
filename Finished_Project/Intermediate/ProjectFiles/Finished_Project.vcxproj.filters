@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Finished_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Finished_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Finished_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CGAL">
+      <UniqueIdentifier>{2E647C1A-E305-3C4C-86A0-1D89117477A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CGAL\Source">
+      <UniqueIdentifier>{B7F6061C-6F57-3452-BAC4-5AACD9E83B2B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CGAL\Source\CGAL">
+      <UniqueIdentifier>{C20C9D69-09EF-3E29-B19C-867DF84945E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CGAL\Source\CGAL\CGAL.Build.cs">
+      <Filter>Plugins\CGAL\Source\CGAL</Filter>
+    </None>
+    <Filter Include="Plugins\CGAL\Source\CGAL\Private">
+      <UniqueIdentifier>{BF9488CE-0404-3FEB-8277-9D0E39BB370E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CGAL\Source\CGAL\Private\CGAL.cpp">
+      <Filter>Plugins\CGAL\Source\CGAL\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CGAL\Source\CGAL\Private\CGALPrivatePCH.h">
+      <Filter>Plugins\CGAL\Source\CGAL\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CGAL\Source\CGAL\Public">
+      <UniqueIdentifier>{B9E0E5B2-4125-3D0F-80F4-C47D1A32BAA1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CGAL\Source\CGAL\Public\CGAL.h">
+      <Filter>Plugins\CGAL\Source\CGAL\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\CGAL\CGAL.uplugin">
+      <Filter>Plugins\CGAL</Filter>
+    </None>
+    <Filter Include="Plugins\CGAL\Resources">
+      <UniqueIdentifier>{4531923D-5963-345D-A309-18FF99D77EFD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CGAL\Resources\Icon128.png">
+      <Filter>Plugins\CGAL\Resources</Filter>
+    </None>
+    <Filter Include="Source\Finished_Project">
+      <UniqueIdentifier>{8DE3A061-33FA-3ABE-9E43-AAB1E98F3B06}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Finished_Project\DynamicActor4D.cpp">
+      <Filter>Source\Finished_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Finished_Project\DynamicActor4D.h">
+      <Filter>Source\Finished_Project</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Finished_Project\Finished_Project.Build.cs">
+      <Filter>Source\Finished_Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Finished_Project\Finished_Project.cpp">
+      <Filter>Source\Finished_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Finished_Project\Finished_Project.h">
+      <Filter>Source\Finished_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Finished_Project\Finished_ProjectGameModeBase.cpp">
+      <Filter>Source\Finished_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Finished_Project\Finished_ProjectGameModeBase.h">
+      <Filter>Source\Finished_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Finished_Project\GameMode4D.cpp">
+      <Filter>Source\Finished_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Finished_Project\GameMode4D.h">
+      <Filter>Source\Finished_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Finished_Project\Player4D.cpp">
+      <Filter>Source\Finished_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Finished_Project\Player4D.h">
+      <Filter>Source\Finished_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Finished_Project\Trigger4D.cpp">
+      <Filter>Source\Finished_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Finished_Project\Trigger4D.h">
+      <Filter>Source\Finished_Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

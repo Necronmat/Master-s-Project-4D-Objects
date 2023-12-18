@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\User\\Desktop\\Uni work\\UClan-Masters\\Project\\Finished_Project\\Source\\Finished_Project\\Finished_Project.Build.cs",
+		"C:\\Users\\User\\Desktop\\Uni work\\UClan-Masters\\Project\\Finished_Project\\Plugins\\CGAL\\Source\\CGAL\\CGAL.Build.cs",
+		"C:\\Users\\User\\Desktop\\Uni work\\UClan-Masters\\Project\\Finished_Project\\Source\\Finished_Project.Target.cs",
+		"C:\\Users\\User\\Desktop\\Uni work\\UClan-Masters\\Project\\Finished_Project\\Source\\Finished_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

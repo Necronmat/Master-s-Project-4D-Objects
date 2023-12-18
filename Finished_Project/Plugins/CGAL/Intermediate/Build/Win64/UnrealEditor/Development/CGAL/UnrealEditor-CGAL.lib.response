@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CGAL.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Intermediate\Build\Win64\Finished_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Plugins\CGAL\Intermediate\Build\Win64\UnrealEditor\Development\CGAL\CGAL.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Plugins\CGAL\Intermediate\Build\Win64\UnrealEditor\Development\CGAL\Default.rc2.res"
+/OUT:"C:\Users\User\Desktop\Uni work\UClan-Masters\Project\Finished_Project\Plugins\CGAL\Intermediate\Build\Win64\UnrealEditor\Development\CGAL\UnrealEditor-CGAL.lib"
